@@ -18,7 +18,7 @@ menggunakan PHP Native dengan pola Model-View-Controller (MVC).
 4. Pastikan konfigurasi database pada `config/database.php` sesuai.
 5. Buka:
 
-http://localhost/mvc-data-film/public/index.php
+http://localhost/mvc-data-film-109062500125/public/index.php
 
 ## Struktur Folder
 
